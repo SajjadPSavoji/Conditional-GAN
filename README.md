@@ -3,7 +3,7 @@
 Generative Adversarial Nets were introduced as a novel way to train generative models. In this project we use the conditional version of generative adversarial nets, which can be constructed by simply feeding the data, y, we wish to condition on to both the generator and discriminator. We show that this model can generate CFAR-10 digits conditioned on class labels.											</p>
 
 ## Results
-![CGAN results]()
+![CGAN results](https://github.com/SajjadPSavoji/Conditional-GAN/blob/master/CGAN.png)
 
 ## Resources
 - [original paper](https://arxiv.org/abs/1411.1784)
